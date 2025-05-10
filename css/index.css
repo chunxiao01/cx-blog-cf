@@ -1386,7 +1386,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, PingFang SC, Noto Sans SC, 思源黑体, Microsoft YaHei, 微软雅黑, Noto Sans CJK SC, Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-family: LXGW WenKai Screen, -apple-system, system-ui, BlinkMacSystemFont, PingFang SC, Noto Sans SC, 思源黑体, Microsoft YaHei, 微软雅黑, Noto Sans CJK SC, Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   scroll-behavior: smooth;
