@@ -1,34 +1,114 @@
-[00:00.00] 作词 : John Michael Montgomery
-[00:01.00] 作曲 : John Michael Montgomery
-[01:35.90][01:14.79][00:02.09]I swear !
-[03:24.98][02:35.99][01:06.55][00:03.07]By the moon & the stars in the skies.
-[03:33.87][03:07.22][01:02.17][00:09.14]And I swear !
-[03:33.78][02:47.38][01:18.00][00:11.83]Like the shadow that's by Ur side.
-[00:21.00]
-[00:22.80]I see the questions in Ur eyes.
-[00:28.37]I know what's weighing on Ur mind.
-[00:33.98]U can B sure I know my part.
-[00:40.63]'Cause I'll stand beside U through the years.
-[00:48.09]U'll only cry those happy tears.
-[00:53.43]And though I'd make mistakes.
-[00:57.92]I'll never break Ur heart.
-[03:44.20][03:42.14][03:32.26][03:30.68][02:54.78][02:53.17][02:43.33][02:41.75][01:21.96][01:10.82]I'll be there.
-[03:45.77][02:56.79][01:25.29]For better or worse.
-[03:49.13][02:59.58][01:30.06]Till death do us part.
-[03:02.53][01:31.06]I'll love U with every beat of my heart!
-[01:43.00]
-[01:49.59]I gove U everything I can.
-[01:57.77]I'll build Ur dreams with these two hands.
-[02:03.17]We'll hang some memories on the walls.
-[02:09.82]And when(And when)Just the two of us are there.
-[02:17.27]U won't have 2 ask if I'd still care.
-[02:23.74]'Cos as the time turns the page.
-[02:27.39]My love won't age at all.
-[02:32.24]And I swear(I swear)!
-[02:44.89]I swear(And I swear)!
-[03:13.00]
-[03:22.53]I Swear(I swear)!
-[03:47.75]Better Or Worse.
-[03:50.83]Oh ! No !
-[03:51.71]I'll love U with every single beat of my heart.
-[03:58.22]And I swear,I swear,I Swear !
+[00:00.00]I swear by the moon and the stars in the sky
+[00:08.00]我对着天空的星星和月亮发誓
+[00:08.00]And I swear like the shadow that's by your side
+[00:22.00]我发誓就像陪在你身边的影子
+[00:22.00]I see the questions in your eyes
+[00:28.00]我从你的眼神里看到了问题
+[00:28.00]I know what's weighing on your mind
+[00:34.00]我知道你心里的压力
+[00:34.00]You can be sure I know my part
+[00:41.00]你可以确定我知道我的角色
+[00:41.00]Cause I'll stand beside you through the years
+[00:49.00]因为这些年我会陪在你身边
+[00:49.00]You'll only cry those happy tears
+[00:55.00]你只会流下幸福的泪水
+[00:55.00]And though I make mistakes
+[00:59.00]尽管我会犯错
+[00:59.00]I'll never break your heart
+[01:04.00]我永远不会让你伤心
+[01:04.00]And I swear by the moon and the stars in the sky
+[01:13.00]我对着天上的月亮和星星发誓
+[01:13.00]I'll be there
+[01:16.00]我会陪着你
+[01:16.00]I swear like a shadow that's by your side
+[01:24.00]我发誓我像影子一样伴你左右
+[01:24.00]I'll be there
+[01:28.00]我会陪着你
+[01:28.00]For better or worse
+[01:31.00]不管是好是坏
+[01:31.00]Till death do us part
+[01:34.00]直到死亡将我们分开
+[01:34.00]I'll love you with every beat of my heart
+[01:39.00]我会全心全意地爱你
+[01:39.00]And I swear
+[01:45.00]我发誓
+[01:45.00]Ooo
+[01:53.00]哦哦
+[01:53.00]I'll give you every thing I can
+[01:59.00]我会给你我能给的一切
+[01:59.00]I'll build your dreams with these two hands
+[02:05.00]我会用这双手为你筑起梦想
+[02:05.00]We'll hang some memories on the walls
+[02:11.00]我们会把一些回忆挂在墙上
+[02:11.00]And when
+[02:13.00]什么时候
+[02:13.00]And when
+[02:14.00]什么时候
+[02:14.00]Just the two of us are there
+[02:19.00]只有我们两个人在那里
+[02:19.00]You won't have to ask if I still care
+[02:25.00]你不用问我是否还在乎你
+[02:25.00]Cause as the time turns the page
+[02:29.00]因为随着时间的流逝
+[02:29.00]My love won't age at all
+[02:35.00]我的爱不会老去
+[02:35.00]And I swear
+[02:36.00]我发誓
+[02:36.00]I swear
+[02:37.00]我发誓
+[02:37.00]By the moon and the stars in the sky
+[02:43.00]以天上的月亮和星星发誓
+[02:43.00]I'll be there
+[02:45.00]我会陪着你
+[02:45.00]I'll be there
+[02:47.00]我会陪着你
+[02:47.00]I swear
+[02:48.00]我发誓
+[02:48.00]And I swear
+[02:49.00]我发誓
+[02:49.00]Like the shadow that's by your side
+[02:55.00]就像你身边的影子
+[02:55.00]I'll be there
+[02:56.00]我会陪着你
+[02:56.00]I'll be there
+[02:59.00]我会陪着你
+[02:59.00]For better or worse
+[03:01.00]不管是好是坏
+[03:01.00]Till death do us part
+[03:05.00]直到死亡将我们分开
+[03:05.00]I'll love you with every beat of my heart
+[03:10.00]我会全心全意地爱你
+[03:10.00]And I swear
+[03:22.00]我发誓
+[03:22.00]I swear
+[03:23.00]我发誓
+[03:23.00]I swear
+[03:24.00]我发誓
+[03:24.00]By the moon and stars in the sky
+[03:30.00]月亮和天空的星辰
+[03:30.00]I'll be there
+[03:31.00]我会陪着你
+[03:31.00]I'll be there
+[03:33.00]我会陪着你
+[03:33.00]I swear like the shadow that's by your side
+[03:42.00]我发誓就像你身边的影子
+[03:42.00]I'll be there
+[03:45.00]我会陪着你
+[03:45.00]I'll be there
+[03:48.00]我会陪着你
+[03:48.00]For better or worse
+[03:53.00]不管是好是坏
+[03:53.00]Better or worse
+[04:00.00]不管是好是坏
+[04:00.00]Till death do us part
+[04:07.00]直到死亡将我们分开
+[04:07.00]Oh no
+[04:12.00]不
+[04:12.00]I'll love you with every
+[04:28.00]我会全心全意地爱你
+[04:28.00]Every single
+[04:29.00]每一个人
+[04:29.00]Beat of my heart
+[04:36.00]我的心跳
+[04:36.00]I swear I swear oh I swear
+[04:41.00]我发誓我发誓
