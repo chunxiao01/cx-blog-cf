@@ -208,11 +208,11 @@
                   middle: [
                     'zoomIn',
                     'zoomOut',
-                    'toggle1to1',
-                    'rotateCCW',
-                    'rotateCW',
-                    'flipX',
-                    'flipY'
+                    // 'toggle1to1',
+                    // 'rotateCCW',
+                    // 'rotateCW',
+                    // 'flipX',
+                    // 'flipY'
                   ],
                   right: ['slideshow', 'thumbs', 'close']
                 }
@@ -232,11 +232,11 @@
                     middle: [
                       'zoomIn',
                       'zoomOut',
-                      'toggle1to1',
-                      'rotateCCW',
-                      'rotateCW',
-                      'flipX',
-                      'flipY',
+                      // 'toggle1to1',
+                      // 'rotateCCW',
+                      // 'rotateCW',
+                      // 'flipX',
+                      // 'flipY',
                       'reset'
                     ],
                     right: ['autoplay', 'thumbs', 'close']
