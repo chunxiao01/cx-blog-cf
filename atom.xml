@@ -6,7 +6,7 @@
   <link href="https://cx-blog.pages.dev/atom.xml" rel="self"/>
   
   <link href="https://cx-blog.pages.dev/"/>
-  <updated>2026-01-01T01:27:48.497Z</updated>
+  <updated>2026-01-14T15:46:56.076Z</updated>
   <id>https://cx-blog.pages.dev/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>字体推荐</title>
+    <link href="https://cx-blog.pages.dev/posts/d9b39aa4/"/>
+    <id>https://cx-blog.pages.dev/posts/d9b39aa4/</id>
+    <published>2026-01-14T14:40:33.000Z</published>
+    <updated>2026-01-14T15:46:56.076Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="中文字体推荐（二）"><a href="#中文字体推荐（二）" class="headerlink" title="中文字体推荐（二）"></a>中文字体推荐（二）</h2><h3 id="字体说明"><a href="#字体说明" class="headerlink" title="字体说明"></a>字体说明</h3><blockquote></blockquote><ul><li>字体名称: 霞鹜文楷</li><li>版本: v1.521 25&#x2F;10&#x2F;10</li><li>字形：简体中文、繁体中文、港台异性字、粤闽客字、注音符号、日文、朝韩彦文等</li><li>字数：20000+（包含《通用规范汉字表》全部汉字）</li><li>字符集：GB 2312-80 全量、GB 18030 核心子集、Unicode 常用字符、Big5、CJK、ISO-8859-1等</li><li>开源说明：基于 SIL Open Font License 1.1</li><li>使用说明：可商用</li><li>原始字体的设计师：周建豪（Francis Chow）</li><li>开源地址：<a href="https://github.com/lxgw/LxgwWenKai">LxgwWenKai</a></li><li>来源：<a href="https://github.com/lxgw/LxgwWenKai">https://github.com/lxgw/LxgwWenKai</a></li></ul><blockquote></blockquote><h3 id="字体欣赏"><a href="#字体欣赏" class="headerlink" title="字体欣赏"></a>字体欣赏</h3><img src="/posts/d9b39aa4/font2.webp" class="" title="字体欣赏">]]></content>
+    
+    
+    <summary type="html">字体推荐(二)</summary>
+    
+    
+    
+    <category term="项目" scheme="https://cx-blog.pages.dev/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="前端" scheme="https://cx-blog.pages.dev/categories/%E9%A1%B9%E7%9B%AE/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="字体" scheme="https://cx-blog.pages.dev/categories/%E9%A1%B9%E7%9B%AE/%E5%89%8D%E7%AB%AF/%E5%AD%97%E4%BD%93/"/>
+    
+    
+    <category term="前端" scheme="https://cx-blog.pages.dev/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="项目" scheme="https://cx-blog.pages.dev/tags/%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="Font" scheme="https://cx-blog.pages.dev/tags/Font/"/>
+    
+    <category term="字体" scheme="https://cx-blog.pages.dev/tags/%E5%AD%97%E4%BD%93/"/>
+    
+  </entry>
   
   <entry>
     <title>你好2026</title>
@@ -70,7 +101,7 @@
     <published>2025-12-01T12:58:04.000Z</published>
     <updated>2025-12-01T13:06:36.219Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">煎熬</b></p><p></p><p>煎熬</p><p>艰熬</p><p>时间太久</p><p>忘掉！</p><br></br><p>煎熬</p><p>坚熬</p><p>什么时候</p><p>逃掉！</p><br></br>        <div id="aplayer-PnteufYD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"煎熬","author":"李佳薇","url":"http://music.163.com/song/media/outer/url?id=25639010.mp3","pic":"https://p2.music.126.net/xGWonQ9dbfDkUrbxD7Ebdw==/109951165674709422.jpg","lrc":"煎熬.txt"}]};  options.element = document.getElementById("aplayer-PnteufYD");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">煎熬</b></p><p></p><p>煎熬</p><p>艰熬</p><p>时间太久</p><p>忘掉！</p><br></br><p>煎熬</p><p>坚熬</p><p>什么时候</p><p>逃掉！</p><br></br>        <div id="aplayer-dYUYFNha" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"煎熬","author":"李佳薇","url":"http://music.163.com/song/media/outer/url?id=25639010.mp3","pic":"https://p2.music.126.net/xGWonQ9dbfDkUrbxD7Ebdw==/109951165674709422.jpg","lrc":"煎熬.txt"}]};  options.element = document.getElementById("aplayer-dYUYFNha");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
     
     
       
@@ -118,7 +149,7 @@
     <published>2025-10-29T11:00:00.000Z</published>
     <updated>2025-10-31T03:51:51.217Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">执念</b></p><p></p><p>可说可不说，</p><p>想要记住的记不住，</p><p>想要忘记的忘不掉。</p><p>越是想要的，越是得不到！</p><p>执着？执念？</p><br></br><p>可做可不做，</p><p>想要拯救的濒临崩溃，</p><p>想要改变的迟迟做不到。</p><p>一次又一次的陷入！</p><p>怎么办？</p><br></br>        <div id="aplayer-iCvEQiTS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"在你的身边","author":"盛哲","url":"http://music.163.com/song/media/outer/url?id=475479888.mp3","pic":"http://p2.music.126.net/AYNBdRxJ8EdZo4xFjp7b4Q==/109951163191178425.jpg","lrc":"在你的身边.txt"},{"title":"每当变幻时","author":"温拿乐队","url":"http://music.163.com/song/media/outer/url?id=385844.mp3","pic":"https://p1.music.126.net/l1bNsk5jKVgdBnpE8rzcsA==/109951168291553943.jpg","lrc":"每当变幻时.txt"}]};  options.element = document.getElementById("aplayer-iCvEQiTS");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">执念</b></p><p></p><p>可说可不说，</p><p>想要记住的记不住，</p><p>想要忘记的忘不掉。</p><p>越是想要的，越是得不到！</p><p>执着？执念？</p><br></br><p>可做可不做，</p><p>想要拯救的濒临崩溃，</p><p>想要改变的迟迟做不到。</p><p>一次又一次的陷入！</p><p>怎么办？</p><br></br>        <div id="aplayer-gjvYQNFH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"在你的身边","author":"盛哲","url":"http://music.163.com/song/media/outer/url?id=475479888.mp3","pic":"http://p2.music.126.net/AYNBdRxJ8EdZo4xFjp7b4Q==/109951163191178425.jpg","lrc":"在你的身边.txt"},{"title":"每当变幻时","author":"温拿乐队","url":"http://music.163.com/song/media/outer/url?id=385844.mp3","pic":"https://p1.music.126.net/l1bNsk5jKVgdBnpE8rzcsA==/109951168291553943.jpg","lrc":"每当变幻时.txt"}]};  options.element = document.getElementById("aplayer-gjvYQNFH");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
     
     
       
@@ -142,7 +173,7 @@
     <published>2025-08-31T10:34:00.000Z</published>
     <updated>2025-08-31T11:32:18.846Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>夏天的尾巴</p><p></p>        <div id="aplayer-yxakpYTA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"Summer","author":"久石譲","url":"http://music.163.com/song/media/outer/url?id=421244551.mp3","pic":"http://p2.music.126.net/nOhFczgnXcBbCSn6uLhmPg==/18416819765513414.jpg","lrc":"Summer.txt"},{"title":"夏日漱石","author":"zbq","url":"http://music.163.com/song/media/outer/url?id=1839751216.mp3","pic":"http://p1.music.126.net/ITQ5uNilhAi0TCMMcV84lA==/109951165839086793.jpg","lrc":"夏日漱石.txt"}]};  options.element = document.getElementById("aplayer-yxakpYTA");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>夏天的尾巴</p><p></p>        <div id="aplayer-PVRJRUpj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"Summer","author":"久石譲","url":"http://music.163.com/song/media/outer/url?id=421244551.mp3","pic":"http://p2.music.126.net/nOhFczgnXcBbCSn6uLhmPg==/18416819765513414.jpg","lrc":"Summer.txt"},{"title":"夏日漱石","author":"zbq","url":"http://music.163.com/song/media/outer/url?id=1839751216.mp3","pic":"http://p1.music.126.net/ITQ5uNilhAi0TCMMcV84lA==/109951165839086793.jpg","lrc":"夏日漱石.txt"}]};  options.element = document.getElementById("aplayer-PVRJRUpj");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
     
     
       
@@ -190,7 +221,7 @@
     <published>2025-06-28T09:20:21.000Z</published>
     <updated>2025-06-29T08:47:38.612Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>毕业歌</p><p></p>        <div id="aplayer-wvoNbZPt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"那些花儿","author":"朴树","url":"http://music.163.com/song/media/outer/url?id=139392.mp3","pic":"https://p2.music.126.net/j1EJGPJ0WaudM0DBSDCY8w==/109951168111041972.jpg","lrc":"那些花儿.txt"},{"title":"心愿","author":"四个女生","url":"http://music.163.com/song/media/outer/url?id=379785.mp3","pic":"https://p1.music.126.net/-QgrpnBhavRcLtaBaad5Lw==/52776558150270.jpg","lrc":"心愿.txt"},{"title":"亲爱的旅人","author":"周深","url":"http://music.163.com/song/media/outer/url?id=1371939273.mp3","pic":"https://p1.music.126.net/1YrCPOBV314i-mTtlDg8mQ==/109951164148664637.jpg","lrc":"亲爱的旅人.txt"}]};  options.element = document.getElementById("aplayer-wvoNbZPt");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>毕业歌</p><p></p>        <div id="aplayer-bwPLzOfA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"那些花儿","author":"朴树","url":"http://music.163.com/song/media/outer/url?id=139392.mp3","pic":"https://p2.music.126.net/j1EJGPJ0WaudM0DBSDCY8w==/109951168111041972.jpg","lrc":"那些花儿.txt"},{"title":"心愿","author":"四个女生","url":"http://music.163.com/song/media/outer/url?id=379785.mp3","pic":"https://p1.music.126.net/-QgrpnBhavRcLtaBaad5Lw==/52776558150270.jpg","lrc":"心愿.txt"},{"title":"亲爱的旅人","author":"周深","url":"http://music.163.com/song/media/outer/url?id=1371939273.mp3","pic":"https://p1.music.126.net/1YrCPOBV314i-mTtlDg8mQ==/109951164148664637.jpg","lrc":"亲爱的旅人.txt"}]};  options.element = document.getElementById("aplayer-bwPLzOfA");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
     
     
       
@@ -242,7 +273,7 @@
     <published>2025-05-17T11:34:18.000Z</published>
     <updated>2025-05-17T12:27:40.350Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>I swear by the moon and the stars in the sky.</p><p></p>        <div id="aplayer-xuJIniSZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"I Swear","author":"All-4-One","url":"http://music.163.com/song/media/outer/url?id=3884368.mp3","pic":"http://p1.music.126.net/TOZcfDrdOAICd-m9_Krg8A==/807041534832935.jpg","lrc":"i swear.txt"}]};  options.element = document.getElementById("aplayer-xuJIniSZ");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>I swear by the moon and the stars in the sky.</p><p></p>        <div id="aplayer-FsLsqtwj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"I Swear","author":"All-4-One","url":"http://music.163.com/song/media/outer/url?id=3884368.mp3","pic":"http://p1.music.126.net/TOZcfDrdOAICd-m9_Krg8A==/807041534832935.jpg","lrc":"i swear.txt"}]};  options.element = document.getElementById("aplayer-FsLsqtwj");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
     
     
       
@@ -300,7 +331,7 @@
     <published>2025-04-29T06:43:17.000Z</published>
     <updated>2025-04-29T09:44:27.526Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>跟风</p><p></p>        <div id="aplayer-PvTzyVxk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"一点","author":"Muyoi / 徐梦洁","url":"http://music.163.com/song/media/outer/url?id=2686266146.mp3","pic":"https://p2.music.126.net/PiSqUS2bxc9x2Zbz2vt4sQ==/109951170099752710.jpg","lrc":"一点.txt"},{"title":"面会菜","author":"林生祥 / 张有志","url":"http://music.163.com/song/media/outer/url?id=2084105618.mp3","pic":"http://p1.music.126.net/X_Rn-rQjeE1uky9dQkMH-Q==/109951167545270532.jpg","lrc":"面会菜.txt"}]};  options.element = document.getElementById("aplayer-PvTzyVxk");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>跟风</p><p></p>        <div id="aplayer-sMisTgew" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"一点","author":"Muyoi / 徐梦洁","url":"http://music.163.com/song/media/outer/url?id=2686266146.mp3","pic":"https://p2.music.126.net/PiSqUS2bxc9x2Zbz2vt4sQ==/109951170099752710.jpg","lrc":"一点.txt"},{"title":"面会菜","author":"林生祥 / 张有志","url":"http://music.163.com/song/media/outer/url?id=2084105618.mp3","pic":"http://p1.music.126.net/X_Rn-rQjeE1uky9dQkMH-Q==/109951167545270532.jpg","lrc":"面会菜.txt"}]};  options.element = document.getElementById("aplayer-sMisTgew");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
     
     
       
@@ -324,7 +355,7 @@
     <published>2025-03-31T13:07:14.000Z</published>
     <updated>2025-03-31T13:44:39.229Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>是啊，回到了原点。但是没看到十字路口，该怎么办呢？</p><p></p>        <div id="aplayer-ZShDRtme" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"闪亮的日子","author":"钟志刚","url":"http://music.163.com/song/media/outer/url?id=198509.mp3","pic":"https://p2.music.126.net/IB2Qlp9ITguzRjXuA1E0mQ==/109951167917235260.jpg","lrc":"闪亮的日子.txt"}]};  options.element = document.getElementById("aplayer-ZShDRtme");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>是啊，回到了原点。但是没看到十字路口，该怎么办呢？</p><p></p>        <div id="aplayer-gLhDSgIQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"闪亮的日子","author":"钟志刚","url":"http://music.163.com/song/media/outer/url?id=198509.mp3","pic":"https://p2.music.126.net/IB2Qlp9ITguzRjXuA1E0mQ==/109951167917235260.jpg","lrc":"闪亮的日子.txt"}]};  options.element = document.getElementById("aplayer-gLhDSgIQ");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
     
     
       
@@ -531,34 +562,6 @@
     <category term="CI/CD" scheme="https://cx-blog.pages.dev/tags/CI-CD/"/>
     
     <category term="DevOps" scheme="https://cx-blog.pages.dev/tags/DevOps/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HTML基础知识(一)</title>
-    <link href="https://cx-blog.pages.dev/posts/5c1f3b81/"/>
-    <id>https://cx-blog.pages.dev/posts/5c1f3b81/</id>
-    <published>2023-03-18T12:50:09.000Z</published>
-    <updated>2025-02-10T14:23:30.027Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p style="font-size:24px;font-weight:bold;">HTML基础知识(一)</p><ul><li><p>URI：统一资源标识符，一个指向资源的字符串</p><ul><li><p>URL：统一资源定位符，指定Web上资源文件的具体位置。</p><ul><li>在HTTP中，一般称为网络地址或者链接。</li><li>也可用于文件传输(FTP)，电子邮件(SMTP)等其他应用。</li></ul></li><li><p>URN：在给定的命名空间用名字指向具体的资源，例如书本的ISBN。</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">urn:isbn:9780141036144</span><br><span class="line">urn:ietf:rfc:7230</span><br><span class="line">//乔治·奥威尔所著的《1984》</span><br><span class="line">//IETF 规范 7230，超文本传输 协议 (HTTP/1.1)：Message Syntax and Routing.</span><br></pre></td></tr></table></figure></li></ul></li><li><p>Data URL：前缀为data:协议的URL，允许内容创建者向文档中嵌入小文件。</p><ul><li>语法：data:[<mediatype>][:base64],<data></li></ul></li><li><p>MIME类型：表示文档、文件、字节流的性质和格式。</p><ul><li><p>格式：type&#x2F;subtype (类型&#x2F;子类型)</p></li><li><p>常用MIME：</p><ul><li><p>text ：文件是普通文本，默认text&#x2F;plain</p><ul><li>text&#x2F;plain、text&#x2F;html、text&#x2F;css、text&#x2F;javascript</li></ul></li><li><p>image：图像</p><ul><li>image&#x2F;gif、image&#x2F;png、image&#x2F;jpeg、image&#x2F;bmp、image&#x2F;webp、image&#x2F;svg+xml、image&#x2F;x-icon、image&#x2F;vnd.microsoft.icon</li></ul></li><li><p>audio：音频</p><ul><li>audio&#x2F;midi、audio&#x2F;mpeg、audio&#x2F;webm、audio&#x2F;ogg、audio&#x2F;wav</li></ul></li><li><p>video：视频</p><ul><li>video&#x2F;webm、video&#x2F;ogg、video&#x2F;mp4</li></ul></li><li><p>application：二进制数据，默认application&#x2F;octet-stream</p><ul><li>application&#x2F;octet-stream、application&#x2F;json、application&#x2F;javascript、application&#x2F;pdf</li></ul></li></ul></li><li><p>Multipart：细分领域的文件类型，用于复合文件类型。</p><ul><li>multipart&#x2F;form-data：用在HTML Forms 、POST方法等。</li></ul></li></ul></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="前端" scheme="https://cx-blog.pages.dev/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="HTML" scheme="https://cx-blog.pages.dev/categories/%E5%89%8D%E7%AB%AF/HTML/"/>
-    
-    
-    <category term="前端" scheme="https://cx-blog.pages.dev/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="HTML" scheme="https://cx-blog.pages.dev/tags/HTML/"/>
     
   </entry>
   
