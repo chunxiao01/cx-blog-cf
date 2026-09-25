@@ -1,519 +1,383 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>浮生二三四</title>
-  
-  <subtitle>认识你自己...</subtitle>
-  <link href="https://cx-blog.pages.dev/atom.xml" rel="self"/>
-  
-  <link href="https://cx-blog.pages.dev/"/>
-  <updated>2026-08-31T14:55:48.538Z</updated>
-  <id>https://cx-blog.pages.dev/</id>
-  
   <author>
     <name>Chun Xiao</name>
-    
   </author>
-  
   <generator uri="https://hexo.io/">Hexo</generator>
-  
+  <id>https://cx-blog.pages.dev/</id>
+  <link href="https://cx-blog.pages.dev/" rel="alternate"/>
+  <link href="https://cx-blog.pages.dev/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Chun Xiao</rights>
+  <subtitle>认识你自己...</subtitle>
+  <title>浮生二三四</title>
+  <updated>2026-08-31T14:55:48.538Z</updated>
   <entry>
-    <title>夢•幻</title>
-    <link href="https://cx-blog.pages.dev/posts/a30e4d10/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div><b style="font-size:26px;">夢幻</b><p>    两个月的时光，好似梦幻一般？</p><p>    不真实。</p><p>    不相信。</p><p>    本不该期待。</p><p>    终于。</p><p>    尘归尘。</p><p>    土归土。</p><p>    原来是做梦。</p><p>    就当作一场梦！</p><p>    再见。</p><p>    再也不见。</p></div>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/a30e4d10/</id>
+    <link href="https://cx-blog.pages.dev/posts/a30e4d10/"/>
     <published>2026-08-31T14:51:24.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>夢•幻</title>
     <updated>2026-08-31T14:55:48.538Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div><b style="font-size:26px;">夢幻</b><p>    两个月的时光，好似梦幻一般？</p><p>    不真实。</p><p>    不相信。</p><p>    本不该期待。</p><p>    终于。</p><p>    尘归尘。</p><p>    土归土。</p><p>    原来是做梦。</p><p>    就当作一场梦！</p><p>    再见。</p><p>    再也不见。</p></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>岁月神偷</title>
-    <link href="https://cx-blog.pages.dev/posts/1994da85/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div><b style="font-size:26px;">岁月神偷</b><p>    岁月啊，我眼睁睁地看着你悄然溜走！</p><p>    我伸出的手，仅仅只能触碰你掀起的衣角。</p><p>    我留不住你，就像我捧起一把清水，最后只剩下几颗晶莹剔透。</p><p>    无情的你，带走了我的青春，也带走了我的记忆。</p><p>    我的心变了。</p><p>    不是苟活，却似无魂神游。</p><p>    我变得无趣与无感，我丢掉了出发时就携带着的行囊。</p><p>    我仿佛要丢掉了我自己，不仅仅是你。</p><p>    岁月啊，我傻乎乎地回忆着与一切你有关的你！</p><p>    我期盼着时光倒流，那样我或许还有一点点希望。</p><p>    我忘不了你，就像我照亮一片漆黑，最后留在脑海中不灭的灯火。</p><p>    无情的你，狠狠地，将我打成了陌生人。</p><p>    我的心变了。</p><p>    不是变坏，却似水泥封堵。</p><p>    我变得不那么像我自己，我也不喜欢我自己。</p><p>    我仿佛要忘记了我自己，不仅仅是你。</p><p>    岁月啊，我泪潸潸地盯着你的背影！</p><p>    我无能为力。</p><p>    我追不上你，就像我追逐一只飞鸟，最后只剩下几片羽毛的天空。</p><p>    再见了你。</p><p>    我的心变了。</p><p>    不是绝望，却似无望。</p><p>    我变得无所适从，我变得淡然。</p><p>    我希望能整装出发。</p></div>        <div id="aplayer-RbxWLajH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content">[00:00.000] 作词 : 金玟岐[00:01.000] 作曲 : 金玟岐[00:02.000] 编曲 : 薛琳可[00:15.368]能够握紧的就别放了[00:19.148]能够拥抱的就别拉扯[00:23.331]时间着急的冲刷着[00:27.787]剩下了什么[00:30.758][00:31.471]原谅走过的那些曲折[00:35.336]原来留下的都是真的[00:39.321]纵然似梦啊半醒着[00:43.721]笑着哭着都快活 谁让~[00:49.554][00:51.221]时间是让人猝不及防的东西[00:55.173]晴时有风阴有时雨[00:59.068]争不过朝夕又念着往昔[01:03.149]偷走了青丝却留住一个你[01:07.033][01:07.251]岁月是一场有去无回的旅行[01:11.188]好的坏的都是风景[01:15.201]别怪我贪心只是不愿醒[01:19.123]因为你只为你愿和我一起[01:23.182]看云淡风轻[01:30.305][01:39.607]能够握紧的就别放了[01:43.281]能够拥抱的就别拉扯[01:47.324]时间着急的冲刷着[01:51.816]剩下了什么[01:54.699][01:55.394]原谅走过的那些曲折[01:59.271]原来留下的都是真的[02:03.284]纵然似梦啊半醒着[02:07.813]笑着哭着都快活 谁让~[02:13.997][02:15.318]时间是让人猝不及防的东西[02:19.104]晴时有风阴有时雨[02:23.135]争不过朝夕又念着往昔[02:27.149]偷走了青丝却留住一个你[02:30.833][02:31.155]岁月是一场有去无回的旅行[02:35.188]好的坏的都是风景[02:39.098]别怪我贪心只是不愿醒[02:42.847]因为你只为你愿和我一起[02:47.049]看云淡风轻[02:53.032][03:03.304]时间是让人猝不及防的东西[03:06.948]晴时有风阴有时雨[03:11.179]争不过朝夕又念着往昔[03:15.157]偷走了青丝却留住一个你[03:18.903][03:18.918]岁月是一场有去无回的旅行[03:23.070]好的坏的都是风景[03:27.189]别怪我贪心只是不愿醒[03:31.183]因为你只为你愿和我一起[03:36.864]看云淡风轻</pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-RbxWLajH"),            narrow: false,            autoplay: false,            showlrc: 2,            music: {              title: "岁月神偷",              author: "金玟岐",              url: "http://music.163.com/song/media/outer/url?id=28285910.mp3",              pic: "https://p1.music.126.net/gWNsPDBbQCQXVNvMdnAH8A==/18815942487303143.jpg",              lrc: "岁月神偷.txt"            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/1994da85/</id>
+    <link href="https://cx-blog.pages.dev/posts/1994da85/"/>
     <published>2026-06-30T12:52:47.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>岁月神偷</title>
     <updated>2026-06-30T13:34:01.758Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div><b style="font-size:26px;">岁月神偷</b><p>    岁月啊，我眼睁睁地看着你悄然溜走！</p><p>    我伸出的手，仅仅只能触碰你掀起的衣角。</p><p>    我留不住你，就像我捧起一把清水，最后只剩下几颗晶莹剔透。</p><p>    无情的你，带走了我的青春，也带走了我的记忆。</p><p>    我的心变了。</p><p>    不是苟活，却似无魂神游。</p><p>    我变得无趣与无感，我丢掉了出发时就携带着的行囊。</p><p>    我仿佛要丢掉了我自己，不仅仅是你。</p><p>    岁月啊，我傻乎乎地回忆着与一切你有关的你！</p><p>    我期盼着时光倒流，那样我或许还有一点点希望。</p><p>    我忘不了你，就像我照亮一片漆黑，最后留在脑海中不灭的灯火。</p><p>    无情的你，狠狠地，将我打成了陌生人。</p><p>    我的心变了。</p><p>    不是变坏，却似水泥封堵。</p><p>    我变得不那么像我自己，我也不喜欢我自己。</p><p>    我仿佛要忘记了我自己，不仅仅是你。</p><p>    岁月啊，我泪潸潸地盯着你的背影！</p><p>    我无能为力。</p><p>    我追不上你，就像我追逐一只飞鸟，最后只剩下几片羽毛的天空。</p><p>    再见了你。</p><p>    我的心变了。</p><p>    不是绝望，却似无望。</p><p>    我变得无所适从，我变得淡然。</p><p>    我希望能整装出发。</p></div>        <div id="aplayer-AwdvjFHu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content">[00:00.000] 作词 : 金玟岐[00:01.000] 作曲 : 金玟岐[00:02.000] 编曲 : 薛琳可[00:15.368]能够握紧的就别放了[00:19.148]能够拥抱的就别拉扯[00:23.331]时间着急的冲刷着[00:27.787]剩下了什么[00:30.758][00:31.471]原谅走过的那些曲折[00:35.336]原来留下的都是真的[00:39.321]纵然似梦啊半醒着[00:43.721]笑着哭着都快活 谁让~[00:49.554][00:51.221]时间是让人猝不及防的东西[00:55.173]晴时有风阴有时雨[00:59.068]争不过朝夕又念着往昔[01:03.149]偷走了青丝却留住一个你[01:07.033][01:07.251]岁月是一场有去无回的旅行[01:11.188]好的坏的都是风景[01:15.201]别怪我贪心只是不愿醒[01:19.123]因为你只为你愿和我一起[01:23.182]看云淡风轻[01:30.305][01:39.607]能够握紧的就别放了[01:43.281]能够拥抱的就别拉扯[01:47.324]时间着急的冲刷着[01:51.816]剩下了什么[01:54.699][01:55.394]原谅走过的那些曲折[01:59.271]原来留下的都是真的[02:03.284]纵然似梦啊半醒着[02:07.813]笑着哭着都快活 谁让~[02:13.997][02:15.318]时间是让人猝不及防的东西[02:19.104]晴时有风阴有时雨[02:23.135]争不过朝夕又念着往昔[02:27.149]偷走了青丝却留住一个你[02:30.833][02:31.155]岁月是一场有去无回的旅行[02:35.188]好的坏的都是风景[02:39.098]别怪我贪心只是不愿醒[02:42.847]因为你只为你愿和我一起[02:47.049]看云淡风轻[02:53.032][03:03.304]时间是让人猝不及防的东西[03:06.948]晴时有风阴有时雨[03:11.179]争不过朝夕又念着往昔[03:15.157]偷走了青丝却留住一个你[03:18.903][03:18.918]岁月是一场有去无回的旅行[03:23.070]好的坏的都是风景[03:27.189]别怪我贪心只是不愿醒[03:31.183]因为你只为你愿和我一起[03:36.864]看云淡风轻</pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-AwdvjFHu"),            narrow: false,            autoplay: false,            showlrc: 2,            music: {              title: "岁月神偷",              author: "金玟岐",              url: "http://music.163.com/song/media/outer/url?id=28285910.mp3",              pic: "https://p1.music.126.net/gWNsPDBbQCQXVNvMdnAH8A==/18815942487303143.jpg",              lrc: "岁月神偷.txt"            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>弱水三千</title>
-    <link href="https://cx-blog.pages.dev/posts/bc203e86/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">弱水三千 - 古风金（今）曲</b></p><div>    <iframe         src="//player.bilibili.com/player.html?bvid=BV1m6QTBfEzC&page=1&danmaku=0&high_quality=1&hideCoverInfo=0"         scrolling="no" border="0" frameborder="no" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" allowfullscreen="true" allow="autoplay; fullscreen; picture-in-picture" style="width:100%;aspect-ratio:16/9;border:0;"></iframe></div>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/bc203e86/</id>
+    <link href="https://cx-blog.pages.dev/posts/bc203e86/"/>
     <published>2026-05-30T12:02:28.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>弱水三千</title>
     <updated>2026-05-30T12:37:22.285Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">弱水三千 - 古风金（今）曲</b></p><div>    <iframe         src="//player.bilibili.com/player.html?bvid=BV1m6QTBfEzC&page=1&danmaku=0&high_quality=1&hideCoverInfo=0"         scrolling="no" border="0" frameborder="no" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" allowfullscreen="true" allow="autoplay; fullscreen; picture-in-picture" style="width:100%;aspect-ratio:16/9;border:0;"></iframe></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>不断进步</title>
-    <link href="https://cx-blog.pages.dev/posts/52f14d68/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">不断进步</b></p><p>不断进步是为了摆脱焦虑</p><p>但是</p><p>进步了还是会焦虑</p><p>因为想要更进一步</p><p>那么</p><p>姑且就带着焦虑去进步</p><p>说不定会不那么焦虑</p><p>所以</p><p>要不断进步</p><p>本事进步</p><p>心态进步</p>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/52f14d68/</id>
+    <link href="https://cx-blog.pages.dev/posts/52f14d68/"/>
     <published>2026-05-30T06:41:29.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>不断进步</title>
     <updated>2026-05-30T06:46:05.549Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">不断进步</b></p><p>不断进步是为了摆脱焦虑</p><p>但是</p><p>进步了还是会焦虑</p><p>因为想要更进一步</p><p>那么</p><p>姑且就带着焦虑去进步</p><p>说不定会不那么焦虑</p><p>所以</p><p>要不断进步</p><p>本事进步</p><p>心态进步</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>珍惜时间</title>
-    <link href="https://cx-blog.pages.dev/posts/c3d79b4e/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">珍惜时间</b></p><p>在拥有时间的时候请珍惜</p><p>因为</p><p>在下一秒</p><p>将不再拥有</p>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/c3d79b4e/</id>
+    <link href="https://cx-blog.pages.dev/posts/c3d79b4e/"/>
     <published>2026-04-28T12:26:50.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>珍惜时间</title>
     <updated>2026-04-28T12:29:52.940Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">珍惜时间</b></p><p>在拥有时间的时候请珍惜</p><p>因为</p><p>在下一秒</p><p>将不再拥有</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>Keep Moving</title>
-    <link href="https://cx-blog.pages.dev/posts/5567c887/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">Keep Moving</b></p><blockquote><p>穷则变，变则通，通则久。（《周易・系辞下》）<br>知是行之始，行是知之成。（王阳明《传习录》）</p></blockquote>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/5567c887/</id>
+    <link href="https://cx-blog.pages.dev/posts/5567c887/"/>
     <published>2026-03-31T08:46:22.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>Keep Moving</title>
     <updated>2026-03-31T08:56:53.606Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">Keep Moving</b></p><blockquote><p>穷则变，变则通，通则久。（《周易・系辞下》）<br>知是行之始，行是知之成。（王阳明《传习录》）</p></blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>不要丢弃</title>
-    <link href="https://cx-blog.pages.dev/posts/1b66d1fb/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">不要丢弃</b></p><p></p><p>加油啊</p><p>即使跌入谷底！</p><p>不要丢弃</p><p>曾经面对和对抗黑暗的你！</p><p>再来一次</p><p>相信你自己！</p>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/1b66d1fb/</id>
+    <link href="https://cx-blog.pages.dev/posts/1b66d1fb/"/>
     <published>2026-02-28T07:31:11.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>不要丢弃</title>
     <updated>2026-02-28T07:35:49.754Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:26px;">不要丢弃</b></p><p></p><p>加油啊</p><p>即使跌入谷底！</p><p>不要丢弃</p><p>曾经面对和对抗黑暗的你！</p><p>再来一次</p><p>相信你自己！</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>你好哇，很高兴认识你</title>
-    <link href="https://cx-blog.pages.dev/posts/7year/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="纪念" scheme="https://cx-blog.pages.dev/tags/%E7%BA%AA%E5%BF%B5/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size:36px;">你好哇，很高兴认识你！the 7th Year！</div>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/7year/</id>
+    <link href="https://cx-blog.pages.dev/posts/7year/"/>
     <published>2026-01-15T11:42:30.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>你好哇，很高兴认识你</title>
     <updated>2026-01-15T11:57:23.470Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size:36px;">你好哇，很高兴认识你！the 7th Year！</div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="纪念" scheme="https://cx-blog.pages.dev/tags/%E7%BA%AA%E5%BF%B5/"/>
-    
   </entry>
-  
   <entry>
-    <title>字体推荐</title>
-    <link href="https://cx-blog.pages.dev/posts/fft1as12/"/>
-    <id>https://cx-blog.pages.dev/posts/fft1as12/</id>
-    <published>2026-01-14T14:40:33.000Z</published>
-    <updated>2026-01-15T05:30:32.427Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="中文字体推荐（二）"><a href="#中文字体推荐（二）" class="headerlink" title="中文字体推荐（二）"></a>中文字体推荐（二）</h2><h3 id="字体说明"><a href="#字体说明" class="headerlink" title="字体说明"></a>字体说明</h3><blockquote></blockquote><ul><li>字体名称: 霞鹜文楷</li><li>版本: v1.521 25&#x2F;10&#x2F;10</li><li>字形：简体中文、繁体中文、港台异性字、粤闽客字、注音符号、日文、朝韩彦文等</li><li>字数：20000+（包含《通用规范汉字表》全部汉字）</li><li>字符集：GB 2312-80 全量、GB 18030 核心子集、Unicode 常用字符、Big5、CJK、ISO-8859-1等</li><li>开源说明：基于 SIL Open Font License 1.1</li><li>使用说明：可商用</li><li>原始字体的设计师：周建豪（Francis Chow）</li><li>开源地址：<a href="https://github.com/lxgw/LxgwWenKai">LxgwWenKai</a></li><li>来源：<a href="https://github.com/lxgw/LxgwWenKai">https://github.com/lxgw/LxgwWenKai</a></li></ul><blockquote></blockquote><h3 id="字体欣赏"><a href="#字体欣赏" class="headerlink" title="字体欣赏"></a>字体欣赏</h3><img src="/posts/fft1as12/font2.webp" class="" title="字体欣赏">]]></content>
-    
-    
-    <summary type="html">字体推荐(二)</summary>
-    
-    
-    
+    <author>
+      <name>Chun Xiao</name>
+    </author>
     <category term="项目" scheme="https://cx-blog.pages.dev/categories/%E9%A1%B9%E7%9B%AE/"/>
-    
     <category term="前端" scheme="https://cx-blog.pages.dev/categories/%E9%A1%B9%E7%9B%AE/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="字体" scheme="https://cx-blog.pages.dev/categories/%E9%A1%B9%E7%9B%AE/%E5%89%8D%E7%AB%AF/%E5%AD%97%E4%BD%93/"/>
-    
-    
     <category term="前端" scheme="https://cx-blog.pages.dev/tags/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="项目" scheme="https://cx-blog.pages.dev/tags/%E9%A1%B9%E7%9B%AE/"/>
-    
     <category term="Font" scheme="https://cx-blog.pages.dev/tags/Font/"/>
-    
     <category term="字体" scheme="https://cx-blog.pages.dev/tags/%E5%AD%97%E4%BD%93/"/>
-    
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="中文字体推荐（二）"><a href="#中文字体推荐（二）" class="headerlink" title="中文字体推荐（二）"></a>中文字体推荐（二）</h2><h3 id="字体说明"><a href="#字体说明" class="headerlink" title="字体说明"></a>字体说明</h3><blockquote></blockquote><ul><li>字体名称: 霞鹜文楷</li><li>版本: v1.521 25&#x2F;10&#x2F;10</li><li>字形：简体中文、繁体中文、港台异性字、粤闽客字、注音符号、日文、朝韩彦文等</li><li>字数：20000+（包含《通用规范汉字表》全部汉字）</li><li>字符集：GB 2312-80 全量、GB 18030 核心子集、Unicode 常用字符、Big5、CJK、ISO-8859-1等</li><li>开源说明：基于 SIL Open Font License 1.1</li><li>使用说明：可商用</li><li>原始字体的设计师：周建豪（Francis Chow）</li><li>开源地址：<a href="https://github.com/lxgw/LxgwWenKai">LxgwWenKai</a></li><li>来源：<a href="https://github.com/lxgw/LxgwWenKai">https://github.com/lxgw/LxgwWenKai</a></li></ul><blockquote></blockquote><h3 id="字体欣赏"><a href="#字体欣赏" class="headerlink" title="字体欣赏"></a>字体欣赏</h3><img src="/posts/fft1as12/font2.webp" class="" title="字体欣赏">]]>
+    </content>
+    <id>https://cx-blog.pages.dev/posts/fft1as12/</id>
+    <link href="https://cx-blog.pages.dev/posts/fft1as12/"/>
+    <published>2026-01-14T14:40:33.000Z</published>
+    <summary>字体推荐(二)</summary>
+    <title>字体推荐</title>
+    <updated>2026-01-15T05:30:32.427Z</updated>
   </entry>
-  
   <entry>
-    <title>你好2026</title>
-    <link href="https://cx-blog.pages.dev/posts/6278d421/"/>
-    <id>https://cx-blog.pages.dev/posts/6278d421/</id>
-    <published>2026-01-01T00:55:56.000Z</published>
-    <updated>2026-01-01T01:27:48.497Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size:36px;">你好，2026！</div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
+    <author>
+      <name>Chun Xiao</name>
+    </author>
     <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
     <category term="开篇" scheme="https://cx-blog.pages.dev/tags/%E5%BC%80%E7%AF%87/"/>
-    
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size:36px;">你好，2026！</div>]]>
+    </content>
+    <id>https://cx-blog.pages.dev/posts/6278d421/</id>
+    <link href="https://cx-blog.pages.dev/posts/6278d421/"/>
+    <published>2026-01-01T00:55:56.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>你好2026</title>
+    <updated>2026-01-01T01:27:48.497Z</updated>
   </entry>
-  
   <entry>
-    <title>我的电影2025</title>
-    <link href="https://cx-blog.pages.dev/posts/72dca9d9/"/>
-    <id>https://cx-blog.pages.dev/posts/72dca9d9/</id>
-    <published>2025-12-31T13:56:24.000Z</published>
-    <updated>2025-12-31T14:12:38.396Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size:33px;"> 我的电影2025 </div><img src="/posts/72dca9d9/mymovies2025.webp" class="" title="我的电影2025">]]></content>
-    
-    
-    <summary type="html">我的电影2025</summary>
-    
-    
-    
+    <author>
+      <name>Chun Xiao</name>
+    </author>
     <category term="影视" scheme="https://cx-blog.pages.dev/categories/%E5%BD%B1%E8%A7%86/"/>
-    
-    
     <category term="电影" scheme="https://cx-blog.pages.dev/tags/%E7%94%B5%E5%BD%B1/"/>
-    
     <category term="年终总结" scheme="https://cx-blog.pages.dev/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
-    
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div style="font-size:33px;"> 我的电影2025 </div><img src="/posts/72dca9d9/mymovies2025.webp" class="" title="我的电影2025">]]>
+    </content>
+    <id>https://cx-blog.pages.dev/posts/72dca9d9/</id>
+    <link href="https://cx-blog.pages.dev/posts/72dca9d9/"/>
+    <published>2025-12-31T13:56:24.000Z</published>
+    <summary>我的电影2025</summary>
+    <title>我的电影2025</title>
+    <updated>2025-12-31T14:12:38.396Z</updated>
   </entry>
-  
   <entry>
-    <title>煎熬</title>
-    <link href="https://cx-blog.pages.dev/posts/d0176258/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">煎熬</b></p><p></p><p>煎熬</p><p>艰熬</p><p>时间太久</p><p>忘掉！</p><br></br><p>煎熬</p><p>坚熬</p><p>什么时候</p><p>逃掉！</p><br></br>        <div id="aplayer-KqnPqZQu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"煎熬","author":"李佳薇","url":"http://music.163.com/song/media/outer/url?id=25639010.mp3","pic":"https://p2.music.126.net/xGWonQ9dbfDkUrbxD7Ebdw==/109951165674709422.jpg","lrc":"煎熬.txt"}]};  options.element = document.getElementById("aplayer-KqnPqZQu");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/d0176258/</id>
+    <link href="https://cx-blog.pages.dev/posts/d0176258/"/>
     <published>2025-12-01T12:58:04.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>煎熬</title>
     <updated>2025-12-01T13:06:36.219Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">煎熬</b></p><p></p><p>煎熬</p><p>艰熬</p><p>时间太久</p><p>忘掉！</p><br></br><p>煎熬</p><p>坚熬</p><p>什么时候</p><p>逃掉！</p><br></br>        <div id="aplayer-seSyjRsH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"煎熬","author":"李佳薇","url":"http://music.163.com/song/media/outer/url?id=25639010.mp3","pic":"https://p2.music.126.net/xGWonQ9dbfDkUrbxD7Ebdw==/109951165674709422.jpg","lrc":"煎熬.txt"}]};  options.element = document.getElementById("aplayer-seSyjRsH");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>岁月如歌</title>
-    <link href="https://cx-blog.pages.dev/posts/834fd5aa/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">岁月如歌</b></p><p></p><p>岁月啊</p><p>你甜蜜如歌，也苦涩如歌！</p>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/834fd5aa/</id>
+    <link href="https://cx-blog.pages.dev/posts/834fd5aa/"/>
     <published>2025-11-30T11:27:01.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>岁月如歌</title>
     <updated>2025-11-30T11:42:39.370Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">岁月如歌</b></p><p></p><p>岁月啊</p><p>你甜蜜如歌，也苦涩如歌！</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>执念</title>
-    <link href="https://cx-blog.pages.dev/posts/6aea4d5c/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">执念</b></p><p></p><p>可说可不说，</p><p>想要记住的记不住，</p><p>想要忘记的忘不掉。</p><p>越是想要的，越是得不到！</p><p>执着？执念？</p><br></br><p>可做可不做，</p><p>想要拯救的濒临崩溃，</p><p>想要改变的迟迟做不到。</p><p>一次又一次的陷入！</p><p>怎么办？</p><br></br>        <div id="aplayer-sROaDxqe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"在你的身边","author":"盛哲","url":"http://music.163.com/song/media/outer/url?id=475479888.mp3","pic":"http://p2.music.126.net/AYNBdRxJ8EdZo4xFjp7b4Q==/109951163191178425.jpg","lrc":"在你的身边.txt"},{"title":"每当变幻时","author":"温拿乐队","url":"http://music.163.com/song/media/outer/url?id=385844.mp3","pic":"https://p1.music.126.net/l1bNsk5jKVgdBnpE8rzcsA==/109951168291553943.jpg","lrc":"每当变幻时.txt"}]};  options.element = document.getElementById("aplayer-sROaDxqe");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/6aea4d5c/</id>
+    <link href="https://cx-blog.pages.dev/posts/6aea4d5c/"/>
     <published>2025-10-29T11:00:00.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>执念</title>
     <updated>2025-10-31T03:51:51.217Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><b style="font-size:23px;">执念</b></p><p></p><p>可说可不说，</p><p>想要记住的记不住，</p><p>想要忘记的忘不掉。</p><p>越是想要的，越是得不到！</p><p>执着？执念？</p><br></br><p>可做可不做，</p><p>想要拯救的濒临崩溃，</p><p>想要改变的迟迟做不到。</p><p>一次又一次的陷入！</p><p>怎么办？</p><br></br>        <div id="aplayer-bEkHmviG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"在你的身边","author":"盛哲","url":"http://music.163.com/song/media/outer/url?id=475479888.mp3","pic":"http://p2.music.126.net/AYNBdRxJ8EdZo4xFjp7b4Q==/109951163191178425.jpg","lrc":"在你的身边.txt"},{"title":"每当变幻时","author":"温拿乐队","url":"http://music.163.com/song/media/outer/url?id=385844.mp3","pic":"https://p1.music.126.net/l1bNsk5jKVgdBnpE8rzcsA==/109951168291553943.jpg","lrc":"每当变幻时.txt"}]};  options.element = document.getElementById("aplayer-bEkHmviG");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>夏天的尾巴</title>
-    <link href="https://cx-blog.pages.dev/posts/39f10c9/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>夏天的尾巴</p><p></p>        <div id="aplayer-TIaLwmta" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"Summer","author":"久石譲","url":"http://music.163.com/song/media/outer/url?id=421244551.mp3","pic":"http://p2.music.126.net/nOhFczgnXcBbCSn6uLhmPg==/18416819765513414.jpg","lrc":"Summer.txt"},{"title":"夏日漱石","author":"zbq","url":"http://music.163.com/song/media/outer/url?id=1839751216.mp3","pic":"http://p1.music.126.net/ITQ5uNilhAi0TCMMcV84lA==/109951165839086793.jpg","lrc":"夏日漱石.txt"}]};  options.element = document.getElementById("aplayer-TIaLwmta");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/39f10c9/</id>
+    <link href="https://cx-blog.pages.dev/posts/39f10c9/"/>
     <published>2025-08-31T10:34:00.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>夏天的尾巴</title>
     <updated>2025-08-31T11:32:18.846Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>夏天的尾巴</p><p></p>        <div id="aplayer-WwmRUeOu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"Summer","author":"久石譲","url":"http://music.163.com/song/media/outer/url?id=421244551.mp3","pic":"http://p2.music.126.net/nOhFczgnXcBbCSn6uLhmPg==/18416819765513414.jpg","lrc":"Summer.txt"},{"title":"夏日漱石","author":"zbq","url":"http://music.163.com/song/media/outer/url?id=1839751216.mp3","pic":"http://p1.music.126.net/ITQ5uNilhAi0TCMMcV84lA==/109951165839086793.jpg","lrc":"夏日漱石.txt"}]};  options.element = document.getElementById("aplayer-WwmRUeOu");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>可能</title>
-    <link href="https://cx-blog.pages.dev/posts/d37a8023/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>一切皆有可能<br>只是不甘愿就此放弃<br>除了行动<br>别无他法<br>除了自己<br>无人可用<br>除了可能<br>顺其自然</p>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/d37a8023/</id>
+    <link href="https://cx-blog.pages.dev/posts/d37a8023/"/>
     <published>2025-07-31T13:23:31.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>可能</title>
     <updated>2025-07-31T13:30:29.627Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>一切皆有可能<br>只是不甘愿就此放弃<br>除了行动<br>别无他法<br>除了自己<br>无人可用<br>除了可能<br>顺其自然</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>毕业歌</title>
-    <link href="https://cx-blog.pages.dev/posts/4ceffa48/"/>
+    <author>
+      <name>Chun Xiao</name>
+    </author>
+    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
+    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>毕业歌</p><p></p>        <div id="aplayer-xGdCbkcv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"那些花儿","author":"朴树","url":"http://music.163.com/song/media/outer/url?id=139392.mp3","pic":"https://p2.music.126.net/j1EJGPJ0WaudM0DBSDCY8w==/109951168111041972.jpg","lrc":"那些花儿.txt"},{"title":"心愿","author":"四个女生","url":"http://music.163.com/song/media/outer/url?id=379785.mp3","pic":"https://p1.music.126.net/-QgrpnBhavRcLtaBaad5Lw==/52776558150270.jpg","lrc":"心愿.txt"},{"title":"亲爱的旅人","author":"周深","url":"http://music.163.com/song/media/outer/url?id=1371939273.mp3","pic":"https://p1.music.126.net/1YrCPOBV314i-mTtlDg8mQ==/109951164148664637.jpg","lrc":"亲爱的旅人.txt"}]};  options.element = document.getElementById("aplayer-xGdCbkcv");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]>
+    </content>
     <id>https://cx-blog.pages.dev/posts/4ceffa48/</id>
+    <link href="https://cx-blog.pages.dev/posts/4ceffa48/"/>
     <published>2025-06-28T09:20:21.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>毕业歌</title>
     <updated>2025-06-29T08:47:38.612Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>毕业歌</p><p></p>        <div id="aplayer-ccewjDQV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"那些花儿","author":"朴树","url":"http://music.163.com/song/media/outer/url?id=139392.mp3","pic":"https://p2.music.126.net/j1EJGPJ0WaudM0DBSDCY8w==/109951168111041972.jpg","lrc":"那些花儿.txt"},{"title":"心愿","author":"四个女生","url":"http://music.163.com/song/media/outer/url?id=379785.mp3","pic":"https://p1.music.126.net/-QgrpnBhavRcLtaBaad5Lw==/52776558150270.jpg","lrc":"心愿.txt"},{"title":"亲爱的旅人","author":"周深","url":"http://music.163.com/song/media/outer/url?id=1371939273.mp3","pic":"https://p1.music.126.net/1YrCPOBV314i-mTtlDg8mQ==/109951164148664637.jpg","lrc":"亲爱的旅人.txt"}]};  options.element = document.getElementById("aplayer-ccewjDQV");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
-    <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
   </entry>
-  
   <entry>
-    <title>五月十九</title>
-    <link href="https://cx-blog.pages.dev/posts/3bg0h340/"/>
-    <id>https://cx-blog.pages.dev/posts/3bg0h340/</id>
-    <published>2025-05-19T00:53:34.000Z</published>
-    <updated>2025-12-31T04:04:02.917Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p style="font-size:33px;">四周年快乐！💕💕💐💐</p><div style="font-size:32px;background: #ff5f6d;background: -webkit-linear-gradient(to left, #ff5f6d, #ffc371); background: linear-gradient(to left, #ff5f6d, #ffc371); -webkit-background-clip: text;color: transparent;"><p>#素敵なお知らせから4年# ​​​</p><img src="/posts/3bg0h340/4.webp" class=""> </div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
+    <author>
+      <name>Chun Xiao</name>
+    </author>
     <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
     <category term="纪念" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/%E7%BA%AA%E5%BF%B5/"/>
-    
-    
     <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="纪念" scheme="https://cx-blog.pages.dev/tags/%E7%BA%AA%E5%BF%B5/"/>
-    
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p style="font-size:33px;">四周年快乐！💕💕💐💐</p><div style="font-size:32px;background: #ff5f6d;background: -webkit-linear-gradient(to left, #ff5f6d, #ffc371); background: linear-gradient(to left, #ff5f6d, #ffc371); -webkit-background-clip: text;color: transparent;"><p>#素敵なお知らせから4年# ​​​</p><img src="/posts/3bg0h340/4.webp" class=""> </div>]]>
+    </content>
+    <id>https://cx-blog.pages.dev/posts/3bg0h340/</id>
+    <link href="https://cx-blog.pages.dev/posts/3bg0h340/"/>
+    <published>2025-05-19T00:53:34.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>五月十九</title>
+    <updated>2025-12-31T04:04:02.917Z</updated>
   </entry>
-  
   <entry>
-    <title>I Swear</title>
-    <link href="https://cx-blog.pages.dev/posts/4ef984e1/"/>
-    <id>https://cx-blog.pages.dev/posts/4ef984e1/</id>
-    <published>2025-05-17T11:34:18.000Z</published>
-    <updated>2025-05-17T12:27:40.350Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>I swear by the moon and the stars in the sky.</p><p></p>        <div id="aplayer-sgUjSKgY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"I Swear","author":"All-4-One","url":"http://music.163.com/song/media/outer/url?id=3884368.mp3","pic":"http://p1.music.126.net/TOZcfDrdOAICd-m9_Krg8A==/807041534832935.jpg","lrc":"i swear.txt"}]};  options.element = document.getElementById("aplayer-sgUjSKgY");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
+    <author>
+      <name>Chun Xiao</name>
+    </author>
     <category term="小记" scheme="https://cx-blog.pages.dev/categories/%E5%B0%8F%E8%AE%B0/"/>
-    
-    
     <category term="随笔" scheme="https://cx-blog.pages.dev/tags/%E9%9A%8F%E7%AC%94/"/>
-    
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>I swear by the moon and the stars in the sky.</p><p></p>        <div id="aplayer-SwEECfSE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>  <script>  var options = {"narrow":false,"autoplay":false,"showlrc":3,"music":[{"title":"I Swear","author":"All-4-One","url":"http://music.163.com/song/media/outer/url?id=3884368.mp3","pic":"http://p1.music.126.net/TOZcfDrdOAICd-m9_Krg8A==/807041534832935.jpg","lrc":"i swear.txt"}]};  options.element = document.getElementById("aplayer-SwEECfSE");  var ap = new APlayer(options);    window.aplayers || (window.aplayers = []);  window.aplayers.push(ap);  </script>]]>
+    </content>
+    <id>https://cx-blog.pages.dev/posts/4ef984e1/</id>
+    <link href="https://cx-blog.pages.dev/posts/4ef984e1/"/>
+    <published>2025-05-17T11:34:18.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>I Swear</title>
+    <updated>2025-05-17T12:27:40.350Z</updated>
   </entry>
-  
   <entry>
-    <title>小众软件</title>
-    <link href="https://cx-blog.pages.dev/posts/a31a808a/"/>
-    <id>https://cx-blog.pages.dev/posts/a31a808a/</id>
-    <published>2025-05-15T11:36:04.000Z</published>
-    <updated>2025-05-15T12:55:55.101Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一些小众软件"><a href="#一些小众软件" class="headerlink" title="一些小众软件"></a>一些小众软件</h2><h3 id="天气"><a href="#天气" class="headerlink" title="天气"></a>天气</h3><ul><li><strong>Breezy Weather</strong><ul><li>介绍：Breezy Weather（微风天气）是一款高度注重设计的天气应用，拥有简洁干净的用户体验、流畅的动画效果，整体采用 Material Design 风格，同时具备高度的可定制性。</li><li>特点：简洁轻量无广、支持小时级天气预报、天气信息丰富、开源。</li><li>官网：<a href="https://github.com/breezy-weather/breezy-weather">https://github.com/breezy-weather/breezy-weather</a></li><li>下载地址：<a href="https://github.com/breezy-weather/breezy-weather/releases">https://github.com/breezy-weather/breezy-weather/releases</a></li><li>其他：只支持 Android</li><li>截图：<div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"b1.jpg","alt":"","title":""},{"url":"b2.jpg","alt":"","title":""},{"url":"b3.jpg","alt":"","title":""}]</div>  </div></li></ul></li></ul><h3 id="播客"><a href="#播客" class="headerlink" title="播客"></a>播客</h3><ul><li><strong>AntennaPod</strong><ul><li>介绍：AntennaPod 是一款完全开放的播客播放器。</li><li>特点：简洁轻量无广、功能强大、支持多种方式订阅播客（包括在线搜索订阅、RSS 订阅、导入订阅等）、支持同步、离线下载、导出订阅、收听统计、开源。</li><li>官网：<a href="https://antennapod.org/">https://antennapod.org/</a></li><li>开源地址：<a href="https://github.com/AntennaPod/AntennaPod">https://github.com/AntennaPod/AntennaPod</a></li><li>下载地址：<a href="https://antennapod.org/download/">https://antennapod.org/download/</a></li><li>播客推荐：<ul><li>中文播客榜：<a href="https://xyzrank.com/#/">https://xyzrank.com/#/</a></li><li>pod：<a href="https://pod.link/">https://pod.link/</a></li><li>热门播客：<a href="https://cn.chartoo.com/itunes/toppodcasts">https://cn.chartoo.com/itunes/toppodcasts</a></li><li>中文独立播客：<a href="https://typlog.com/podlist/">https://typlog.com/podlist/</a></li><li>播客 RSS：<a href="https://getpodcast.xyz/">https://getpodcast.xyz/</a></li></ul></li><li>其他：只支持 Android</li><li>截图：<div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"a1.jpg","alt":"","title":""},{"url":"a2.jpg","alt":"","title":""},{"url":"a3.jpg","alt":"","title":""}]</div>  </div></li></ul></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
+    <author>
+      <name>Chun Xiao</name>
+    </author>
     <category term="软件" scheme="https://cx-blog.pages.dev/categories/%E8%BD%AF%E4%BB%B6/"/>
-    
-    
     <category term="软件" scheme="https://cx-blog.pages.dev/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
     <category term="播客" scheme="https://cx-blog.pages.dev/tags/%E6%92%AD%E5%AE%A2/"/>
-    
     <category term="天气" scheme="https://cx-blog.pages.dev/tags/%E5%A4%A9%E6%B0%94/"/>
-    
     <category term="音乐" scheme="https://cx-blog.pages.dev/tags/%E9%9F%B3%E4%B9%90/"/>
-    
     <category term="游戏" scheme="https://cx-blog.pages.dev/tags/%E6%B8%B8%E6%88%8F/"/>
-    
     <category term="RSS" scheme="https://cx-blog.pages.dev/tags/RSS/"/>
-    
+    <content>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一些小众软件"><a href="#一些小众软件" class="headerlink" title="一些小众软件"></a>一些小众软件</h2><h3 id="天气"><a href="#天气" class="headerlink" title="天气"></a>天气</h3><ul><li><strong>Breezy Weather</strong><ul><li>介绍：Breezy Weather（微风天气）是一款高度注重设计的天气应用，拥有简洁干净的用户体验、流畅的动画效果，整体采用 Material Design 风格，同时具备高度的可定制性。</li><li>特点：简洁轻量无广、支持小时级天气预报、天气信息丰富、开源。</li><li>官网：<a href="https://github.com/breezy-weather/breezy-weather">https://github.com/breezy-weather/breezy-weather</a></li><li>下载地址：<a href="https://github.com/breezy-weather/breezy-weather/releases">https://github.com/breezy-weather/breezy-weather/releases</a></li><li>其他：只支持 Android</li><li>截图：<div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"b1.jpg","alt":"","title":""},{"url":"b2.jpg","alt":"","title":""},{"url":"b3.jpg","alt":"","title":""}]</div>  </div></li></ul></li></ul><h3 id="播客"><a href="#播客" class="headerlink" title="播客"></a>播客</h3><ul><li><strong>AntennaPod</strong><ul><li>介绍：AntennaPod 是一款完全开放的播客播放器。</li><li>特点：简洁轻量无广、功能强大、支持多种方式订阅播客（包括在线搜索订阅、RSS 订阅、导入订阅等）、支持同步、离线下载、导出订阅、收听统计、开源。</li><li>官网：<a href="https://antennapod.org/">https://antennapod.org/</a></li><li>开源地址：<a href="https://github.com/AntennaPod/AntennaPod">https://github.com/AntennaPod/AntennaPod</a></li><li>下载地址：<a href="https://antennapod.org/download/">https://antennapod.org/download/</a></li><li>播客推荐：<ul><li>中文播客榜：<a href="https://xyzrank.com/#/">https://xyzrank.com/#/</a></li><li>pod：<a href="https://pod.link/">https://pod.link/</a></li><li>热门播客：<a href="https://cn.chartoo.com/itunes/toppodcasts">https://cn.chartoo.com/itunes/toppodcasts</a></li><li>中文独立播客：<a href="https://typlog.com/podlist/">https://typlog.com/podlist/</a></li><li>播客 RSS：<a href="https://getpodcast.xyz/">https://getpodcast.xyz/</a></li></ul></li><li>其他：只支持 Android</li><li>截图：<div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"a1.jpg","alt":"","title":""},{"url":"a2.jpg","alt":"","title":""},{"url":"a3.jpg","alt":"","title":""}]</div>  </div></li></ul></li></ul>]]>
+    </content>
+    <id>https://cx-blog.pages.dev/posts/a31a808a/</id>
+    <link href="https://cx-blog.pages.dev/posts/a31a808a/"/>
+    <published>2025-05-15T11:36:04.000Z</published>
+    <summary>
+      <![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" cla]]>
+    </summary>
+    <title>小众软件</title>
+    <updated>2025-05-15T12:55:55.101Z</updated>
   </entry>
-  
 </feed>
